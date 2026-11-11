@@ -1,0 +1,29 @@
+[
+  {
+    "id": "S101",
+    "name": "Ayesha Khan",
+    "class": "Semester 3",
+    "marks": {
+      "Python": 88,
+      "Mathematics": 76,
+      "English": 92,
+      "Database": 81
+    },
+    "total": 337,
+    "average": 84.25,
+    "grade": "B"
+  },
+  {
+    "id": "3139507",
+    "name": "Hira malik",
+    "class": "F.A",
+    "marks": {
+      "English": 88,
+      "urdu": 76,
+      "Maths": 68
+    },
+    "total": 232,
+    "average": 77.33,
+    "grade": "B"
+  }
+]
